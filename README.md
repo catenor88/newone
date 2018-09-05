@@ -1,2 +1,3 @@
 # newone
-aprendiendo pull 
+aprendiendo pull
+ultima practica de atom y git
